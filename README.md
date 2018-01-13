@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Git Comparison Section
 This is just being added to play around with diff/merge.
+
+### Section
+This is another section for further testing.
