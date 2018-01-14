@@ -19,5 +19,7 @@ I'm adding something here to do an add.
 
 Now the change is staged and I'm editing it again to have changes in both the staged and working state.
 
+I'm adding more info to play with merging.
+
 ### Copyright
 Copyright &copy; 2018. All Rights Reserved.
