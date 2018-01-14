@@ -18,3 +18,6 @@ Yet more verbiage being added for testing.
 I'm adding something here to do an add.
 
 Now the change is staged and I'm editing it again to have changes in both the staged and working state.
+
+### Copyright
+Copyright &copy; 2018. All Rights Reserved.
