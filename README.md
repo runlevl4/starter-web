@@ -14,3 +14,7 @@ This is another section for further testing.
 
 ### More Stuff
 Yet more verbiage being added for testing.
+
+I'm adding something here to do an add.
+
+Now the change is staged and I'm editing it again to have changes in both the staged and working state.
