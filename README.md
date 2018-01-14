@@ -21,7 +21,7 @@ Now the change is staged and I'm editing it again to have changes in both the st
 
 I'm adding more info to play with merging.
 
-This is some text to play around with rebasing.
+This is some text to play around with rebasing. More changes from the myfeature branch.
 
 ### Copyright
 Copyright &copy; 2018. All Rights Reserved.
