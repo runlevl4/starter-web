@@ -23,6 +23,9 @@ I'm adding more info to play with merging.
 
 This is some text to play around with rebasing. More changes from the myfeature branch.
 
+### Stashing Test
+Just playing with stashing.
+
 ### Copyright
 Copyright &copy; 2018. All Rights Reserved.
 
